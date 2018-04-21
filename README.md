@@ -1,4 +1,4 @@
-Shows database tab;le including all items. Asks user for input.
+Shows database table including all items. Asks user for input.
 <img width="570" alt="screen shot 2018-04-21 at 8 37 53 am" src="https://user-images.githubusercontent.com/29585970/39084213-8ad53d6c-453f-11e8-8330-de324ba041f8.png">
 
 
